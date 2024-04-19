@@ -12,7 +12,7 @@ File [models.py](src/models.py) implements the data model below (also in [model.
 
 # The Database 
 
-The first step in this project is to create the database, which should be based on Postgres. Use the provided SQL template [burnout.sql](sql/burnout.sql) to create a database name *burnout* and a user with the same name having full access to the it. Save the database parameters in [config.ini](src/config.ini). 
+The first step in this project is to create the database, which should be based on Postgres. Use the provided SQL template [burnout.sql](src/burnout.sql) to create a database name *burnout* and a user with the same name having full access to the it. Save the database parameters in [config.ini](src/config.ini). 
 
 # Virtual Environment
 
