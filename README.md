@@ -24,7 +24,7 @@ pip3 install -r requirements.txt
 
 # Questions Upload
 
-Begin the coding part of this project by finishing [burnout_questions.py](src/burnout_questions.py), the script that reads the questions in [data/questions.txt](data/questions.txt) one at a time, instantiates an object of type BurnoutQuestion and saves it in the database. 
+Begin the coding part of this project by finishing [burnout_questions.py](src/burnout_questions.py), the script that reads the questions in [data/questions.txt](data/questions.txt) one at a time, instantiates an object of type **BurnoutQuestion** and saves it in the database. 
 
 # Test Application
 
