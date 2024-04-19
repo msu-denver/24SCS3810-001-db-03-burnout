@@ -14,6 +14,8 @@ File [models.py](src/models.py) implements the data model below (also in [model.
 
 The first step in this project is to create the database, which should be based on Postgres. Use the provided SQL template [burnout.sql](src/burnout.sql) to create a database name *burnout* and a user with the same name having full access to the it. Save the database parameters in [config.ini](src/config.ini). 
 
+Note: do NOT create the tables of the database as they must be created automatically by SQLAlchemy from the model. 
+
 # Virtual Environment
 
 Create a Python virtual environment and install all required packages using: 
